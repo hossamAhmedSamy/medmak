@@ -5,5 +5,4 @@ dist
 .vscode
 .env*
 .DS_Store
-pnpm-lock.yaml
-package-lock.json
+# keep lockfiles in the repo so Vercel can detect the package manager
